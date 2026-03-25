@@ -6,7 +6,7 @@ Introduction
 
 In today’s fast-moving digital world, technology plays a major role in everyday life. From laptops and smartphones to smart home devices, everything requires proper setup, maintenance, and occasional repair. This is where Geek Squad services come into the picture. Booking a Geek Squad appointment can help you resolve technical issues efficiently without unnecessary stress.
 
-.. image:: login-now.gif
+.. image:: bookappointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
